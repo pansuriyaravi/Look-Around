@@ -4,9 +4,9 @@ Welcome to the Look Around Scene View in SwiftUI sample project! This project de
 
 ## Screenshots
 
-![Screenshot of the app showing the count at 0](Screenshots/0.png)
+![Screenshot of the app showing the map pin and preview look around](Screenshots/1.png)
 
-![Screenshot of the app showing the count at 1](Screenshots/1.png)
+![Screenshot of the app showing the look around scene](Screenshots/2.png)
 
 ## Getting Started
 
