@@ -18,7 +18,7 @@ To run the project locally, follow these steps:
 1. Clone the repository: 
 
 ```
-git clone https://github.com/pansuriyaravi/Proposal-Figam-SwiftUI.git
+git clone https://github.com/pansuriyaravi/Look-Around.git
 ```
 
 2. Open the project in Xcode:
