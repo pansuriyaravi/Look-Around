@@ -1,6 +1,6 @@
 # Look Around Scene in SwiftUI
 
-Welcome to the Look Around Scene View in SwiftUI Map sample project! This project demonstrates how to create an immersive street view experience similar to Google Maps' Street View, using SwiftUI and Apple's Look Around feature in MapKit. Users can drop pins on the map to mark specific locations and then explore a 360-degree panoramic view of those locations.
+Welcome to the Look Around Scene View in SwiftUI sample project! This project demonstrates how to create an immersive street view experience similar to Google Maps' Street View, using SwiftUI and Apple's Look Around feature in MapKit. Users can drop pins on the map to mark specific locations and then explore a 360-degree panoramic view of those locations.
 
 ## Screenshots
 
